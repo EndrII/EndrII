@@ -1,4 +1,4 @@
-# YAN (Yankovich Andrei Nikolaevich) - Developer
+# YAN (Yankovich Andrei Nikolaevich) - Developer, not bad developer...
 Hi everyone, I am game-dev Developer, but not only. I really like works with low/high level codes... like a 
 * bitcoin forks 
 * encryption algorithms 
