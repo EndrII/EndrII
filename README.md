@@ -7,7 +7,6 @@ Hi everyone, I am game-dev Developer, but not only. I really like works with low
 
 So if you want to implement your super ideas, write me. I think I can help you implement your cool ideas.
 
-At this time, I am a main maintainer of the [QuasarApp](https://github.com/QuasarApp) group. So we already create useful projects like a [CQtDeployer](https://github.com/QuasarApp/CQtDeployer) or [CheatCard](https://www.cheatcard.net/) - and its not all 😉.
+At this time, I am a main maintainer of the [QuasarApp](https://github.com/QuasarApp) group. So we already created useful projects like a [CQtDeployer](https://github.com/QuasarApp/CQtDeployer) or [CheatCard](https://www.cheatcard.net/) - and this is not the whole list of our applications 😉.
 
-But QuasrarApp group it is not all. I really like works on games, games of [Playrix](https://github.com/Playrix). It is very good experience for me, and I hope that my work really useful for them)
-
+But QuasrarApp group it is not all. I really like to create games, games of [Playrix](https://github.com/Playrix). It is very good experience for me, and I hope that my work really useful for them)
